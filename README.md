@@ -19,7 +19,7 @@ A lightweight, native KWin script for **KDE Plasma 6** that brings automatic til
 
 Installing **KoncreteT** is straightforward:
 
-1.  Download the `KoncreteT.kwinscript` file from the [Releases](tu_link_a_releases_aqui) section.
+1.  Download the `KoncreteT.kwinscript` file from the [Releases](https://github.com/carlosareyesv204-cpu/KoncreteT-TilingWM-for-KDEplasma6-Sarods2D/releases/tag/1.0) section.
 2.  Open **System Settings** > **Window Management** > **KWin Scripts**.
 3.  Click **Install from File...** and select the downloaded file.
 4.  Enable the script by checking the box and click **Apply**.
