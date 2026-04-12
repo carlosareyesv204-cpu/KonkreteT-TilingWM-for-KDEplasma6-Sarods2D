@@ -1,2 +1,44 @@
-# KonkreteT-TilingWM-for-KDEplasma6-Sarods2D
-**KoncreteT** is a lightweight, native KWin script for **KDE Plasma 6** that brings TWM-style tiling to your desktop. Unlike other tools, it requires **zero dependencies** and features a unique **Spiral Layout** (Fibonacci style). It’s a "plug-and-play" solution designed for performance and simplicity. Install it via System Settings in seconds.
+# KoncreteT 🌀
+
+A lightweight, native KWin script for **KDE Plasma 6** that brings automatic tiling to your desktop with zero friction.
+
+## 🚀 Overview
+
+**KoncreteT** is designed for users who want the organization of a Tiling Window Manager (TWM) without the complexity of external dependencies or heavy configurations. It works out of the box, managing your windows automatically across all virtual desktops.
+
+### Key Features:
+* **Native Plasma 6 Support:** Built specifically for the latest KWin API.
+* **Spiral Layout:** Includes a custom Fibonacci-style layout for a unique workspace aesthetic.
+* **Zero Dependencies:** No extra packages required. Just install and enjoy.
+* **Global Tiling:** Works seamlessly across all your virtual desktops and screens.
+* **Plug & Play:** No complex keybindings or menus to learn.
+
+---
+
+## 📥 Installation
+
+Installing **KoncreteT** is straightforward:
+
+1.  Download the `KoncreteT.kwinscript` file from the [Releases](tu_link_a_releases_aqui) section.
+2.  Open **System Settings** > **Window Management** > **KWin Scripts**.
+3.  Click **Install from File...** and select the downloaded file.
+4.  Enable the script by checking the box and click **Apply**.
+
+---
+
+## 🛠 Planned Features
+* [ ] Window exclusion list (ignore specific apps like calculators or floating dialogs).
+* [ ] Custom configuration menu for gaps and padding.
+
+---
+
+## 👤 Author
+
+Developed by **Sarods2D**.  
+Follow my work and updates here:
+* **TikTok:** [@Sarods2D](https://www.tiktok.com/@sarods2d)
+
+---
+
+## ⚖️ License
+This project is open-source. Feel free to use, modify, and share!
