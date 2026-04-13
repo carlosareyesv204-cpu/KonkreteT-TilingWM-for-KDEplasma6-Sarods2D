@@ -5,6 +5,13 @@ A lightweight, native KWin script for **KDE Plasma 6** that brings automatic til
 ## 🚀 Overview
 
 **KoncreteT** is designed for users who want the organization of a Tiling Window Manager (TWM) without the complexity of external dependencies or heavy configurations. It works out of the box, managing your windows automatically across all virtual desktops.
+examples:
+<img width="1920" height="1080" alt="kon1" src="https://github.com/user-attachments/assets/a08816dd-2e60-4d3b-be1d-a0a57d514fbf" />
+<img width="1920" height="1080" alt="kon2" src="https://github.com/user-attachments/assets/6929fef7-f230-491a-85e9-f6d5e28cfc22" />
+configuration:
+<img width="319" height="155" alt="kon3" src="https://github.com/user-attachments/assets/2d48ec9a-ccd5-432e-92b5-d1a0295c370d" />
+
+
 
 ### Key Features:
 * **Native Plasma 6 Support:** Built specifically for the latest KWin API.
